@@ -1,0 +1,10 @@
+audiomentations
+librosa
+matplotlib
+numpy
+scipy
+sounddevice
+tensorflow
+tqdm
+scikit-learn
+ipython
